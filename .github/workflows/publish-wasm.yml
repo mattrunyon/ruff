@@ -31,7 +31,7 @@ jobs:
       - uses: jetli/wasm-pack-action@v0.4.0
       - uses: jetli/wasm-bindgen-action@v0.2.0
       - name: "Run wasm-pack build"
-        run: wasm-pack build --target web --scope astral-sh crates/ruff_wasm
+        run: wasm-pack build --target web --scope mattrunyon crates/ruff_wasm
       - uses: actions/setup-node@v4
         with:
           node-version: 18
