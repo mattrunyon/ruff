@@ -5,10 +5,7 @@
 name: "Build and publish wasm"
 
 on:
-<<<<<<< HEAD
   workflow_dispatch:
-=======
->>>>>>> npm-publish
   workflow_call:
     inputs:
       plan:
