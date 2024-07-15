@@ -1,5 +1,5 @@
 [package]
-name = "ruff-api"
+name = "ruff_wasm"
 version = "0.5.2"
 publish = false
 authors = { workspace = true }
