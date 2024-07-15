@@ -1,11 +1,8 @@
 # Ruff API
 
-<<<<<<< HEAD
-=======
 > [!WARNING]
 > This API is experimental and may change at any time
 
->>>>>>> npm-publish
 [**Docs**](https://docs.astral.sh/ruff/) | [**Playground**](https://play.ruff.rs/)
 
 An extremely fast Python linter and code formatter, written in Rust.
